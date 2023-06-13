@@ -1,5 +1,5 @@
 ## Ex no: 7
-## Date: 12/5/2022
+## Date: 12.04.2023
 # <p align="center">Edge Detect
 ## Aim:
 
